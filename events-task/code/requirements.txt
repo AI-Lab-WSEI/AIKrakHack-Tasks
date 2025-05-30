@@ -1,0 +1,14 @@
+pandas==2.2.3
+numpy==1.26.4
+python-dateutil==2.9.0
+
+# TODO for participants: Add these for advanced features:
+# sentence-transformers  # For embeddings
+# scikit-learn           # For ML algorithms
+# nltk                   # For NLP
+# spacy                  # For advanced NLP
+# transformers           # For BERT/GPT models
+# flask                  # For web apps
+# fastapi                # For APIs
+# requests               # For external APIs
+# beautifulsoup4         # For web scraping 
